@@ -1,7 +1,7 @@
 # ExecuteWithParameters
-Purpose: testing programs automatically: 
-Pure Lazarus/FPC
-uses process{TProcess}
+### Purpose: testing programs automatically: 
+### Pure Lazarus/FPC
+### uses process{TProcess}
 
 - FName_executable.exe
 - FName_input.txt  //a file to read ipnut parameters from 
